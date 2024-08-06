@@ -1,1 +1,0 @@
-# House-Price-Prediction-for-Ames-USA
